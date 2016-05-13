@@ -17,3 +17,4 @@ require 'csv'
   end
   #end
   puts "There are #{Lot.count} lots in the database"
+#whaaat
