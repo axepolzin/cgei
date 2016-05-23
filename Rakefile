@@ -4,6 +4,3 @@
 require File.expand_path('../config/application', __FILE__)
 
 Rails.application.load_tasks
-
-
-#puts "There are #{Lot.count} dispensaries in the database"
